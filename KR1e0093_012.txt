@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 日講春秋解義
-#+DATE: 2015-09-23 09:40:26
-#+PROPERTY: JUAN 12
+#+DATE: 2015-08-24 22:16:34.422929
+#+PROPERTY: ID KR1e0093
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二
 <pb:KR1e0093_WYG_012-1a>¶
 　欽定四庫全書¶
 日講春秋解義卷十二¶
@@ -452,4 +454,3 @@
 　　(附錄/左傳)秋虢人侵晉冬虢人又侵晉(爲傳明年晉/將伐虢張本)¶
 　冬十有二月癸亥朔日有食之¶
 日講春秋解義卷十二¶
-
